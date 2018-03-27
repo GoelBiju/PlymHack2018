@@ -22,11 +22,16 @@ know you intend to join in on this event.
 
 ## What do I need to do in preparation?
 
-**Nothing**!
+Just make sure you bring along **your laptop and power cable**.
 
-Come along on the day and enjoy working with others to develop something fun or creative.
-It is up to you what you want to make and we will provide resources for those who are new to Hackathons
-to get started.
+Some smaller things to do (optional):
+
+* [Join GitHub](https://github.com/join) if you haven't so already,
+* Register for the GitHub Education [Student Developer Pack](https://education.github.com/pack); *some of the tools may be helpful for you*.
+
+Other than that come along on the day and enjoy working with others to develop something fun or creative.
+
+It is up to you what you want to make and we will provide resources for those who are new to Hackathons to get started.
 
 
 ## What is the schedule for the event?
@@ -50,6 +55,8 @@ Many thanks to the [BCS](http://www.bcs.org/) (British Computer Society) and [So
 ![British Computer Society](http://www.bcs.org/custom/bcs/img/redesign2013/bcsLogoTop.png "BCS") ![Software Cornwall](https://www.softwarecornwall.org/wp-content/uploads/2017/08/software-cornwall-logo-v2_200.png "Software Cornwall")
 
 
+##
+
 ---
 
 
@@ -57,14 +64,14 @@ Many thanks to the [BCS](http://www.bcs.org/) (British Computer Society) and [So
 
 ## Introduction
 
-• What is this repository for?
+This repository will serve as a hub for resources you may utilise for this hackathon. We will be uploading useful tutorials if you want to get started on you projects and any project's you finish at the end of the hackathon can be uploaded here to the repository for your *Show & Tell*!
 
 
 ## Hackathon activities
 
-• Explain how show & tell, Git workshop, and smaller team working/ relaxing activites work during the hackathon.
+During the hackathon, there will small activities to take part in i.e. cup-stacking or small team problem solving to relax for a while. As well as this we have a small Git workshop delivered by our GitHub Campus Expert [Lewis Smallwood](https://github.com/LewisSmallwood/).
+
+He will cover how to get Git command-line and Desktop up and running on your system and will cover the basics of source control with Git e.g. creating and linking repositories, adding files to commit and pushing those commits to your repository along with merge/pull to/from repositories.
 
 
 ## Getting started
-
-• Explain how to use this repository's tutorials/content.
