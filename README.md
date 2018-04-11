@@ -43,15 +43,6 @@ Grab some food, socialise, and keep hacking!
 
 **11.00pm** - *Show & Tell*; Time to show-off all of that hard work you just put in to the other hackers.
 
-## Our Kind Sponsors
-
-Many thanks to the [BCS](http://www.bcs.org/) (British Computer Society) and [Software Cornwall](https://www.softwarecornwall.org/) for supporting us in our first hackathon and making it possible.
-
-![British Computer Society](http://www.bcs.org/custom/bcs/img/redesign2013/bcsLogoTop.png "BCS") ![Software Cornwall](https://www.softwarecornwall.org/wp-content/uploads/2017/08/software-cornwall-logo-v2_200.png "Software Cornwall")
-
-##
-
-
 ---
 
 
