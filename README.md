@@ -1,4 +1,9 @@
-# PlymHack 2018
+<div align="center">
+	<img width="400" src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/30515631_1304123193053432_2835082820890656768_n.jpg?_nc_cat=0&oh=45312adeec4f14a6f4c219b4976297a2&oe=5B64D74C"/>
+    <br>
+    <h1>PlymHack2018</h1>
+    <br>
+    </div>
 
 ### What is PlymHack?
 
@@ -34,18 +39,33 @@ Other than that come along on the day and enjoy working with others to develop s
 
 It is up to you what you want to make and we will provide resources for those who are new to Hackathons to get started.
 
+### Is there a theme?
+
+For our first Hackathon we have opened it up so you can either create what you want or teach yourself a new programming language/framework.
+This way we will not trying to make you create a big project within the time but allow you to explore new possibilities.
+
 ### What is the schedule?
 
 As shown on our Splash That page the brief outline for the day is as below:
 
 **12.30pm (noon)** - *Gather & Get Ready*; Meet in Davy Main Hall, and get ready to build!
 
-**1.00pm** - *Introduction*; Get some essential tips to help build out your project during the event.
+**1.00pm - 1.30pm** - *Introduction*; Get some essential tips to help build out your project during the event.
+
+**2.00pm** - *Lewis Smallwood & Git/GitHub Talk*; Our Industry Outreach Officer will be presenting on how to use version control
+in your projects and will help you understand the fundamentals of Git and how to make use of it with GitHub.
+
+**3.00pm** - *Break/Relax*; In this period will be playing some light-hearted activities i.e. party games/musical chairs etc.
+
+**4.00pm** - *Elixel & Glitch Platform*; Christian Cook from Elixel will be introducing their Glitch Platform.
 
 **6.00pm** - *Dinner*; provided in the form of Pizza (kindly sponsored by the BCS).
 Grab some food, socialise, and keep hacking!
 
-**11.00pm** - *Show & Tell*; Time to show-off all of that hard work you just put in to the other hackers.
+**8.00pm** - *Break/Relax*; We will spend this time as a small break for everyone, after this will be the final push.
+
+**11.00pm** - *Show & Tell*; Time to show-off all of that hard work you just put in to the other hackers (you can present if you would like to).
+You will also be able to upload your project to the PlymHack2018 repository following the presentations on Git/GitHub! :smiley:
 
 ---
 
@@ -70,11 +90,9 @@ He will cover how to get Git command-line and Desktop up and running on your sys
 
 If you want to start building software and want to try a new language or development framework then the following resources introduce you to Atom and Electron (a customisable editor and a development framework). With these tools you can start exploring the Node.js language:
 
-
-• Create your [first Atom Plugin](https://www.youtube.com/watch?v=BDsv94RGDMs) (on YouTube)
+• Create your [First Atom Plugin](https://www.youtube.com/watch?v=BDsv94RGDMs) (on YouTube)
 
 • Get up and running with [Electron](https://www.youtube.com/watch?v=Y5Wx3GCpDQo) (on YouTube)
-
 
 If you are interested in making your own personal webpage then a free tool provided by GitHub is that of *GitHub Pages & Jekyll*, you can follow the video below to get started:
 
@@ -104,7 +122,4 @@ The list below links to resources which you may find interesting, following the 
 
 *All the videos were listed on* GitHub's [webcasts library](https://resources.github.com/webcasts/) *and courses can be found at* [GitHub On-Demand courses](https://services.github.com/on-demand/).
 
-
 #### Elixel - Glitch Platform
-
-[Include related information about the platform and any links/ notes given by speaker]
