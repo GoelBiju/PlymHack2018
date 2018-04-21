@@ -123,3 +123,5 @@ The list below links to resources which you may find interesting, following the 
 *All the videos were listed on* GitHub's [webcasts library](https://resources.github.com/webcasts/) *and courses can be found at* [GitHub On-Demand courses](https://services.github.com/on-demand/).
 
 #### Elixel - Glitch Platform
+
+Christian Cook will be our guest speaker for today talking about Elixel's [Glitch Platform](https://glitch.com/). He will be in at 4.00pm to present to us, this will be after our lunch break.
